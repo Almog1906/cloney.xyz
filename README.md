@@ -9,3 +9,6 @@ The goal of the Cloney Bot developers is to get this bot into 100 different serv
 
 ### Past
 Cloney began as a tiny collaboration between friends in 2020. We loved making Discord Bots and all sorts of things with the use of `Discord Bot Maker` and Coding using Javascript.
+
+If you would like to support us click the link below!
+https://www.patreon.com/user?u=35805822
