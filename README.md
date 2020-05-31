@@ -1,7 +1,7 @@
 # Cloney
 
 ### Info
-Cloney is an all around Discord bot with commands ranging from the `Help` Command to cool and fun `slap` commands, this bot is for everyone you can modify it like add a background image to the welcome message and all sorts of things!
+Cloney is an all around Discord bot with commands ranging from the `Help` Command to cool and fun `slap` commands. This bot is for everyone you can modify it like, adding a background image to the welcome message and all sorts of things!
 
 
 ### Goal
