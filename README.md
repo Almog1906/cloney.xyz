@@ -8,7 +8,7 @@ The goal of the Cloney Bot developers is to get this bot into 100 different serv
 
 
 ### Past
-Cloney began as a tiny collaboration between friends in 2020. All this started when Almog invited Darefox and Surf to make a Discord bot with him.
+Cloney began as a tiny collaboration between friends in 2020. 
 
 If you would like to support us click the link below!
 https://www.patreon.com/user?u=35805822
